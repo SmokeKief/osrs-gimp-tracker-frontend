@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'http://localhost:55815/'
+const CONFIG_BACKEND_URL = 'https://groupmap.herokuapp.com/'
